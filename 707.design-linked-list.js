@@ -21,7 +21,7 @@ function showNodeList(text, list) {
         node = node.next;
         index++;
     }
-    // console.log(text, index, result);
+    console.log(text, index, result);
 }
 
 
